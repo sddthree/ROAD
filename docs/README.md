@@ -10,7 +10,7 @@ ROAD🛤
 
 © This code is made available for non-commercial academic purposes. 
 
-## ![Figure 1_00](/docs/Figure 1_00.png)
+<img src="Figure 1_00.png" width="1000px" align="center" />
 
 ## Pre-requisites:
 
