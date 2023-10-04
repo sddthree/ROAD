@@ -10,7 +10,10 @@ ROAD🛤
 
 © This code is made available for non-commercial academic purposes. 
 
-## ![Figure 1_00](./Figure 1_00.png)Pre-requisites:
+## ![Figure 1_00](/docs/Figure 1_00.png)
+
+## Pre-requisites:
+
 * Linux (Tested on Ubuntu 18.04)
 * NVIDIA GPU (Tested on Nvidia GeForce V100 x 4)
 * Python (3.7.7), h5py (2.10.0), matplotlib (3.1.1), numpy (1.18.1), opencv-python (4.1.1), openslide-python (1.1.1), openslide (3.4.1), pandas (1.0.3), pillow (7.0.0), PyTorch (1.5.1), scikit-learn (0.22.1), scipy (1.3.1), tensorflow (1.14.0), tensorboardx (1.9), torchvision (0.6).
